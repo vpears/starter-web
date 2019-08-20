@@ -6,8 +6,7 @@
     <name> -- <role> -- <twitter>
 	fruit
 # THANKS
-
-    <name>
+    tao
 
 # TECHNOLOGY COLOPHON
 
