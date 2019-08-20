@@ -4,10 +4,11 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	fruit
+	fruit orange lemon
 # THANKS
     tao
-
+	oi 
+	dua hau
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
