@@ -11,11 +11,8 @@
 	dua hau
 	xoai
 	coc
-<<<<<<< HEAD
 	le
-=======
-	mang cutt
->>>>>>> 39a77b022da76ee51392b882a3f919beeac57300
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
