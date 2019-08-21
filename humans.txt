@@ -11,8 +11,8 @@
 	dua hau
 	xoai
 	coc
-	le
-	vai
+	mang cut
+	nhan
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
