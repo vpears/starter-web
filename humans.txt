@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-	thay doi ti
+	thay doi ti them lan nua
     <name> -- <role> -- <twitter>
 	fruit juice yogourt orange
 # THANKS
