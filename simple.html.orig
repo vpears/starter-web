@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <head>
-<<<<<<< HEAD
-	<title> test master </title>
+<<<<<<< Updated upstream
+	<title> simple </title>
 =======
-	<title>test branchnew</title>
->>>>>>> branchnew
+	<title>simple test</title>
+>>>>>>> Stashed changes
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
