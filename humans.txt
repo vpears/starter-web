@@ -2,7 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
+<<<<<<< Updated upstream
 	thay doi ti them lan nua
+=======
+	thay doi ti
+>>>>>>> Stashed changes
     <name> -- <role> -- <twitter>
 	fruit juice yogourt orange
 # THANKS
